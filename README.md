@@ -26,6 +26,9 @@
   </a>
 </p>
 
+<h4>Currently vibing to...</h4>
+
+[![Spotify](https://vercel.com/kaustubhs-projects-e8278fad/novatorem/H5bvjv7taEpk8HDw1WPrFZ9TYkoj/api/spotify)](https://open.spotify.com/user/zlsln21u14j1ncpitbkyf5jk6)
 
 <!---
 k-u-17/k-u-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
